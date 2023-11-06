@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIgLoZjFBZ5D9A4ro8Ct8uVP7yJCWa8tVqpMO1e21kC4dzwWmStpacEf4YRQUr9JnnXc81Ee3ZcKsS77TMSzrQ==",
+  "success": true,
+  "projectFilePath": "/Users/vitaliygessel/Projects/TestApi/TestApi/TestApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/vitaliygessel/.nuget/packages/microsoft.aspnetcore.openapi/7.0.13/microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "/Users/vitaliygessel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/vitaliygessel/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/vitaliygessel/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/vitaliygessel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/vitaliygessel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/vitaliygessel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
